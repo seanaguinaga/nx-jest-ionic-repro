@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "ionic": "apps/ionic",
+    "ionic-e2e": "apps/ionic-e2e"
+  }
 }
